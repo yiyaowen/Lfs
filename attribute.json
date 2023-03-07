@@ -1,0 +1,10 @@
+{
+    "target": [
+        "Dir1",
+        "Dir2"
+    ],
+    "suffix": [
+        "jpg",
+        "png"
+    ]
+}
